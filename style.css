@@ -1,0 +1,18 @@
+body{
+    background: rgb(186, 233, 245);
+
+}
+
+.search_phase{
+    text-align: center;
+    margin-top: 300px;
+}
+
+form {
+    display: inline-block;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+    overflow: auto;
+}
